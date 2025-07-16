@@ -23,6 +23,6 @@ Welcome to my GitHub! I'm passionate about building things that blend technology
 
 ## 🌐 Let's Connect
 
-- 📫 Email: vedantsinha3@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vedantsinha3/)
+- Email: vedantsinha3@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/vedantsinha3/)
 - [Instagram](https://www.instagram.com/vedantsinha3/)
