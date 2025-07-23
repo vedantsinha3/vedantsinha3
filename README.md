@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vedant Sinha
 
-🎓 CS Student | 💻 Software Developer | 🧠 ML Enthusiast | 🎨 Fashion Aficionado
+🎓 CS Student | 🧠 ML Engineer | 🎨 Fashion Enthusiast
 
 Welcome to my GitHub! I'm passionate about building things that blend technology, design, and real-world impact.
 
