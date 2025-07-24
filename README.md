@@ -1,15 +1,6 @@
-# 👋 Hi, I'm Vedant Sinha
+# 👋 Hi, I'm Vedant
 
 Welcome to my GitHub! I'm passionate about building things that blend technology, design, and real-world impact.
-
-## 💡 Interests & Skills
-
-- **Languages**: Python, C++, JavaScript, Swift, Dart
-- **Frameworks**: Flask, Firebase, Flutter, React
-- **Tools & Tech**: GPT-4 Turbo, OpenCV, SQLite, Figma, Git, Supabase
-- **Focus Areas**: Computer Vision, ML/AI, App Dev, UX Engineering
-
----
 
 ## 🧠 Recent Experience
 
