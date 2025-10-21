@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vedant
+# Hi, I'm Vedant
 
 Welcome to my GitHub! I'm passionate about building things that blend technology, design, and real-world impact.
 
