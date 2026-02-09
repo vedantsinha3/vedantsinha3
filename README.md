@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm passionate about building things that blend technology, design, and real-world impact.
 
-## 🧠 Recent Experience
+## Recent Experience
 
 **Machine Learning Engineer Intern**  
 🔹 [4L Data Intelligence](https://www.4ldata.com)  
